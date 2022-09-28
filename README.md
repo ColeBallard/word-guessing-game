@@ -1,4 +1,4 @@
-# word-guessing-game
+# Word Guessing Game
 
 ## Description
 
