@@ -20,7 +20,7 @@ git clone https://github.com/ColeBallard/word-guessing-game
 3. Run part4.py python file (part3.py works the same, just replace part4.py with part3.py).
 
 ```shell
-C:/Users/YourName/tournament-tracker/part4.py
+C:/Users/YourName/word-guessing-game/part4.py
 ```
 
 ## **[Contact](https://coleb.io/contact)**
