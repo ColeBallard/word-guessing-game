@@ -2,7 +2,7 @@
 
 ## Description
 
-Command line hangman without the man being hanged.
+Command line hangman without the crass.
 
 ## How it Works
 
