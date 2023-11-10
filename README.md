@@ -2,6 +2,10 @@
 
 ## Description
 
+Command line hangman without the man being hanged.
+
+## How it Works
+
 A random word is chosen from a full dictionary list. A player starts with 7 guesses.
 On each turn, a player can guess a letter or guess the full word. If the player guesses a letter that is in the word, the computer will show the player the position of each instance of that letter.
 
