@@ -27,4 +27,4 @@ git clone https://github.com/ColeBallard/word-guessing-game
 C:/Users/YourName/word-guessing-game/part4.py
 ```
 
-## **[Contact](https://coleb.io/contact)**
+## **[Contact](https://github.com/ColeBallard/coleballard.github.io/blob/main/README.md)**
